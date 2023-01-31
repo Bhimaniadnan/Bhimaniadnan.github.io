@@ -2,14 +2,23 @@
 layout: page
 title: About
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: assets/images/pexels-skitterphoto-705164.jpg
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+Welcome to the Bhimani Blog! 
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+My name is Adnan Bhimani and I am here details my days in my tech journey and sharing what I can to help others.
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
+I have been working as an IT Specialist for 3 years now and on! I strive to be a software developer and I am actively learning everyday to get to this goal.
 
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
+The languages that I am currently learning are:
+
+HTML ( Done )
+CSS ( Done )
+Javascript (+react)
+Python
+SQL
+Java
+
+I know there will always be more to learn so I will never stop learning these languages. The projects I create will be posted here!
 
