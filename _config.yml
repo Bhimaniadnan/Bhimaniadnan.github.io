@@ -4,7 +4,7 @@ timezone: UTC
 baseurl: ''
 permalink: "/:title/"
 logo: 'assets/images/davis.jpg'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/davis.jpg'
 author: Adnan Bhimani
 paginate: 30
 disqus: ''
