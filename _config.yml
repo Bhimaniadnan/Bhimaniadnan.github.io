@@ -3,8 +3,8 @@ email: adnanbhimani@gmail.com
 timezone: UTC
 baseurl: ''
 permalink: "/:title/"
-logo: 'assets/images/davis.jpg'
-favicon: 'assets/images/davis.jpg'
+logo: 'assets/images/davis2.jpg'
+favicon: 'assets/images/davis2.jpg'
 author: Adnan Bhimani
 paginate: 30
 disqus: ''
