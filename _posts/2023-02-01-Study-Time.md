@@ -3,7 +3,7 @@ layout: post
 title:  "Study Time"
 author: Adnan Bhimani
 categories: [ IT, tutorial ]
-image: assets/images/studytime.jpg
+image: assets/images/Studytime.jpg
 ---
 Today,
 
